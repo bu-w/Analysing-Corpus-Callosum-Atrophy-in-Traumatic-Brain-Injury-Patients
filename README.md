@@ -1,5 +1,7 @@
 # Analysing-Corpus-Callosum-Atrophy-in-Traumatic-Brain-Injury-Patients
+This report was completed by Lucas Campbell, Bu Wang, Jasraj and Zhiyuan Lyu.
 
+Abstract
 The primary purpose of this study was to understand the effect certain variables had on the corpus callosum’s rate of atrophy in Traumatic Brain Injury (TBI) 
 patients. In order to make accurate interpretations on variable eﬀects, an investigation was made obtaining a model that best ﬁt the data provided. Given the 
 nature of this study, being exploratory rather than predictive, there was less focus on the predictive power of model(s). A mixed model was found, such that 
